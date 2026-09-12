@@ -10,6 +10,10 @@ The environment was configured with IIS, PHP, and MySQL before deploying osTicke
 
 This is Part 1 of a three-part osTicket help desk project.
 
+### Project Navigation
+
+[Part 1: Installation](https://github.com/AGZ2789/osticket-installation) → [Part 2: Configuration](https://github.com/AGZ2789/osticket-configuration) → [Part 3: Ticket Lifecycle](https://github.com/AGZ2789/osticket-ticket-lifecycle)
+
 <br>
 
 ## Environments and Technologies Used
