@@ -44,8 +44,11 @@ Internet Information Services (IIS) was enabled with CGI support to provide the 
 
 <img width="1126" height="912" alt="image" src="https://github.com/user-attachments/assets/aed5dd87-dcd4-40fc-8b38-7212a8118d19" />
 
+---
 
 PHP 7.3.8 was installed and registered with IIS through PHP Manager using the PHP CGI executable.
+
+---
 
 <img width="1126" height="912" alt="image" src="https://github.com/user-attachments/assets/9c433eee-3031-48bd-b34d-2f64e59f0e41" />
 
@@ -58,9 +61,11 @@ The osTicket application files were extracted and deployed into the IIS web root
 
 <img width="669" height="912" alt="image" src="https://github.com/user-attachments/assets/61584c10-f504-4d2a-9de5-9d7f196df5e0" />
 
+---
 
 During the installer prerequisite check, additional PHP extensions were required or recommended. The necessary extensions, including IMAP, Intl, and OPcache, were enabled through PHP Manager.
 
+---
 
 <img width="1126" height="912" alt="image" src="https://github.com/user-attachments/assets/b47c9e2a-e270-4cb3-8107-489f35c455e2" />
 
